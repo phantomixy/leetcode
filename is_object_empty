@@ -9,3 +9,5 @@ var isEmpty = function(obj) {
         return false
     }
 };
+
+*.
